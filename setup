@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p ~/.rebar/templates && cp -r priv/templates/ ~/.rebar
