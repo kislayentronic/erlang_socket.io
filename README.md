@@ -2,7 +2,7 @@ erlang-scoketio
 ===============
 `./setup`
 
-make app PROJECT=chatapp PREFIX=~/progs/socket
+`make app PROJECT=chatapp PREFIX=~/progs/socket`
 
 `PREFIX` is completely users choice and default value is `../`. `PROJECT` is the name of your project.
 
